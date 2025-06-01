@@ -1,5 +1,5 @@
-const APP_ID = 'YOUR_APP_ID';
-const API_KEY = 'YOUR_REST_API_KEY';
+const APP_ID = '838153F5-475C-4C44-A023-B00D51E2B063';
+const API_KEY = '22E2AA4B-15AD-420B-819A-D1980A3DA9DC';
 const BASE_URL = `https://api.backendless.com/${APP_ID}/${API_KEY}`;
 const USERS_ENDPOINT = `${BASE_URL}/users`;
 const DATA_ENDPOINT = `${BASE_URL}/data/Products`;
